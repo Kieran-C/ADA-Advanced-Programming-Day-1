@@ -11,3 +11,5 @@ Exercise 4: https://repl.it/@KieranCaruana/OddsAndEvens#main.cpp
 Exercise 5: https://repl.it/@KieranCaruana/RetirementCalculator#main.cpp
 
 Exercise 6: https://repl.it/@KieranCaruana/karvonenFormular#main.cpp
+
+Exercise 7: https://repl.it/@KieranCaruana/TypeCounter1
