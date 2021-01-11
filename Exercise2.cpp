@@ -26,10 +26,10 @@ int main() {
 
   std::cout << "\nYou choice: " << choice;
 
-  if (choice == "c") {
+  if ((choice == "c") || (choice == "C")) {
     std::cout << "\n" << startTemp << " Fahrenheit is "<< toCentigrade(startTemp) << " Celsius";
     return 0;
-  }else if (choice == "f") {
+  }else if ((choice == "f") || (choice == "F")) {
     std::cout << "\n" << startTemp << " Celsius is "<< toFahrenheit(startTemp) << " Fahrenheit";
     return 0;
   }else{
