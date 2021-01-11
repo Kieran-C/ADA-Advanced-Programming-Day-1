@@ -15,3 +15,5 @@ Exercise 6: https://repl.it/@KieranCaruana/karvonenFormular#main.cpp
 Exercise 7: https://repl.it/@KieranCaruana/TypeCounter1
 
 Exercise 8: https://repl.it/@KieranCaruana/LowLargestNumbers#main.cpp
+
+Exercise 9: https://repl.it/@KieranCaruana/CharacterType#main.cpp
