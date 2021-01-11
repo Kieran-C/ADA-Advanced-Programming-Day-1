@@ -1,7 +1,9 @@
 ADA-Advanced-Programming-Day-1
 
-Excercise 1: https://repl.it/@KieranCaruana/QuoteAQuote#main.cpp
+Exercise 1: https://repl.it/@KieranCaruana/QuoteAQuote#main.cpp
 
-Excercise 2: https://repl.it/@KieranCaruana/FahrenheitCentigradeConversion#main.cpp
+Exercise 2: https://repl.it/@KieranCaruana/FahrenheitCentigradeConversion#main.cpp
 
-Excercise 3: https://repl.it/@KieranCaruana/AreaOfARectangle#main.cpp
+Exercise 3: https://repl.it/@KieranCaruana/AreaOfARectangle#main.cpp
+
+Exercise 4: https://repl.it/@KieranCaruana/OddsAndEvens#main.cpp
