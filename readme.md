@@ -7,3 +7,5 @@ Exercise 2: https://repl.it/@KieranCaruana/FahrenheitCentigradeConversion#main.c
 Exercise 3: https://repl.it/@KieranCaruana/AreaOfARectangle#main.cpp
 
 Exercise 4: https://repl.it/@KieranCaruana/OddsAndEvens#main.cpp
+
+Exercise 5: https://repl.it/@KieranCaruana/RetirementCalculator#main.cpp
